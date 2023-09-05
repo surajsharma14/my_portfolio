@@ -14,15 +14,19 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html#about
 cta-text-3-url: index.html
 
--- hero.hero-1: I'm John Doe
+-- hero.hero-1: I'm Suraj Kumar Sharma
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
 cover: $assets.files.assets.ape-1.jpg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+Enthusiastic Software Engineer eager to contribute to team success through hard work,
+attention to detail and excellent organizational skills. Clear understanding 
+of Software Development Methodologies.
+Self motivated and hardworking individual constantly involved in self improvement.
+keen observer who believes in learning by sharing knowledge. 
+Strong engineering professional with a Bachelors Degree focused in Computer Science and engineering.
 
 
 -- end: lib.page
